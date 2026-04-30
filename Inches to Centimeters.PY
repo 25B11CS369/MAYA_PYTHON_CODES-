@@ -1,0 +1,3 @@
+inches=int(input().strip())
+cm=inches*2.54
+print(f"{cm:.2f}")
